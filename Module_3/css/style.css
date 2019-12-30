@@ -1,0 +1,40 @@
+body {
+    margin: 5px;
+}
+h1 {
+    text-align: center;
+    
+}
+h4 {
+    text-align: center;
+}
+.Navbar {
+    background-color: gray;
+    width: 100%;
+    border: 1px solid;
+    
+    
+}
+
+p {
+    margin: 50px;
+    padding: 25px;
+    background-color: gray;
+}
+.nav-item {
+    text-align: center;
+    background-color: blanchedalmond;
+    color: black;
+    border: 1px solid;
+    
+    
+}
+.navbar-brand {
+    text-align: left;
+   
+   
+}
+#hotel {
+    background-color: white;
+    color: black;
+}
